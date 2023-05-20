@@ -1,0 +1,35 @@
+.text1 {
+  background: linear-gradient(
+    to right bottom,
+    rgb(237, 233, 254),
+    rgb(125, 211, 252),
+    rgb(168, 162, 158)
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.text2 {
+  background: radial-gradient(
+    at right center,
+    rgb(163, 230, 53),
+    rgb(34, 197, 94),
+    rgb(249, 168, 212)
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.text3 {
+  background: linear-gradient(
+    to left bottom,
+    rgb(148, 163, 184),
+    rgb(167, 243, 208),
+    rgb(239, 68, 68)
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
