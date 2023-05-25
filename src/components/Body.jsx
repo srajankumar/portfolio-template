@@ -15,9 +15,6 @@ const Body = () => {
             <h1 className="flex justify-center font-extrabold text-7xl md:text-8xl lg:text-9xl">
               SRAJAN
             </h1>
-            <h2 className="flex justify-center py-2 text-sm font-bold">
-              A second-year CSE student
-            </h2>
           </div>
         </div>
       </section>
